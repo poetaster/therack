@@ -1,0 +1,54 @@
+Label,Part Type,mn,mpn,part number
+72,TL072,,,
+100K,100kΩ Resistor,,,
+100K,Rotary Potentiometer (Small),,,
+100K,Rotary Potentiometer (Small),,,
+100K,Rotary Potentiometer (Small),,,
+100K1,100kΩ Resistor,,,
+100nF,Film/Foil Capacitor,,,
+100nF,Film/Foil Capacitor,,,
+100nF,Film/Foil Capacitor,,,
+100nF,Film/Foil Capacitor,,,
+100nF,Film/Foil Capacitor,,,
+100nF,Film/Foil Capacitor,,,
+100nF1,Film/Foil Capacitor,,,
+100uF,Electrolytic Capacitor,,,
+103,Ceramic Capacitor,,,
+103,Ceramic Capacitor,,,
+104,Ceramic Capacitor,,,
+10K,1kΩ Resistor,,,
+10nF,Film/Foil Capacitor,,,
+10uF,Electrolytic Capacitor,,,
+1K,1kΩ Resistor,,,
+1uF,Electrolytic Capacitor,,,
+4040B,CD4040E,,,
+470K,470kΩ Resistor,,,
+470K,470kΩ Resistor,,,
+5817,Diode,,,
+CD4046,CD4046BE,,,
+IN,PJ-301M,,,PJ-301M
+IN1,PJ-301M,,,PJ-301M
+IN2,PJ-301M,,,PJ-301M
+IN3,PJ-301M,,,PJ-301M
+IN4,PJ-301M,,,PJ-301M
+IN5,PJ-301M,,,PJ-301M
+IN6,PJ-301M,,,PJ-301M
+J3,Generic shrouded header - 16 pins,,,
+out,PJ-301M,,,PJ-301M
+S1,Taiway 100-SP-X-T1 SPDT Miniature Toggle Switch,,,100-SP-X-T1-0-0-B1-M2
+,,,,
+Amount,Part Type,mn,mpn,part number
+2,100kΩ Resistor,,,
+2,1kΩ Resistor,,,
+2,470kΩ Resistor,,,
+1,CD4040E,,,
+1,CD4046BE,,,
+3,Ceramic Capacitor,,,
+1,Diode,,,
+3,Electrolytic Capacitor,,,
+8,Film/Foil Capacitor,,,
+1,Generic shrouded header - 16 pins,,,
+8,PJ-301M,,,PJ-301M
+3,Rotary Potentiometer (Small),,,
+1,TL072,,,
+1,Taiway 100-SP-X-T1 SPDT Miniature Toggle Switch,,,100-SP-X-T1-0-0-B1-M2
